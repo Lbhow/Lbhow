@@ -43,7 +43,6 @@
 <h3> <a href = "https://learn.microsoft.com/api/credentials/share/en-us/LoknathBhowmik-2066/4456EBA6A57CFF94?sharingId=AA9C020A243A36FA" target="_blank" >  Azure Network Engineer Associate </a></h3>
 <h3> <a href = "https://learn.microsoft.com/api/credentials/share/en-us/LoknathBhowmik-2066/6C600A94F849DF7A?sharingId=AA9C020A243A36FA" target="_blank" > Azure for SAP Workloads Specialty </a></h3>
 <h3> <a href = "https://learn.microsoft.com/api/credentials/share/en-us/LoknathBhowmik-2066/6C600A94F849DF7A?sharingId=AA9C020A243A36FA" target="_blank" >  Azure Virtual Desktop Specialty </a></h3>
-<h3> <a href = "https://learn.microsoft.com/en-us/users/loknathbhowmik-2066/credentials/certification-o-/nouid.2948?tab=credentials-tab" target="_blank" >  Microsoft® Certified Solutions Expert: Cloud Platform and Infrastructure </a></h3>
 
 
 ## Badges 
