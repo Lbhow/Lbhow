@@ -15,7 +15,7 @@
   
        - Azure Cloud Architecture
        - Design and implementation of Azure Landing zone Infrastructure
-       - Azure Cost optimization
+       - FinOps, Azure Cost optimization
        - Discover, assess, plan, and migrate on-premise workloads to Azure
        - Design and implementation of Azure Virtual Desktop
        - DevOps 
