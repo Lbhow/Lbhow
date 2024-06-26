@@ -37,7 +37,7 @@
 
 ## Certifications & Achivement
 
-<h3> <a href = "https://learn.microsoft.com/api/credentials/share/en-us/LoknathBhowmik-2066/6C600A94F849DF7A?sharingId=AA9C020A243A36FA" target="_blank" >  Azure Solutions Architect Expert </a></h3>
+<h3> <a href = "https://learn.microsoft.com/api/credentials/share/en-us/LoknathBhowmik-2066/D4894E53D52DC02C?sharingId=AA9C020A243A36FA" target="_blank" >  Azure Solutions Architect Expert </a></h3>
 <h3> <a href = "https://learn.microsoft.com/api/credentials/share/en-us/LoknathBhowmik-2066/D674FC68B3C2F551?sharingId=AA9C020A243A36FA" target="_blank" >  Azure Network Engineer Associate </a></h3>
 <h3> <a href = "https://learn.microsoft.com/api/credentials/share/en-us/LoknathBhowmik-2066/6C600A94F849DF7A?sharingId=AA9C020A243A36FA" target="_blank" > Azure Administrator Associate </a></h3>
 <h3> <a href = "https://learn.microsoft.com/api/credentials/share/en-us/LoknathBhowmik-2066/4456EBA6A57CFF94?sharingId=AA9C020A243A36FA" target="_blank" >  Azure Network Engineer Associate </a></h3>
